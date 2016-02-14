@@ -6,6 +6,7 @@
   "author": "jon hemstreet <jon@hemstreet.io>",
   "license": "MIT",
   "dependencies": {
+    "request": "^2.69.0",
     "slackbots": "^0.5.1",
     "underscore": "^1.8.3",
     "yargs": "^3.32.0"

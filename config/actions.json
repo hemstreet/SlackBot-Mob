@@ -1,9 +1,18 @@
 {
+  "userMentionedNorrisJokes" : {
+    "channels": ["random"],
+    "keywords": [
+      "chuck joke",
+      "norris joke",
+      "chuck norris joke"
+    ]
+  },
   "userMentionedChuck": {
-    "channels": ["general", "random"],
+    "channels": ["random"],
     "keywords": [
       "chuck",
-      "norris"
+      "norris",
+      "chuck norris"
     ]
   }
 }

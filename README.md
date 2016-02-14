@@ -10,3 +10,7 @@ Update the `actions` object to reflect your keywords and callback method names i
 npm install
 node bot.js
 ```
+
+@TODO
+===
+    * Add controller to Actions config to separate Action code form Actions.js

@@ -1,11 +1,4 @@
 {
   "botName": "Chuck Norris",
   "apiKey": "API-KEY-GOES-HERE",
-  "actions": {
-    "userMentionedChuck": [
-      "chuck",
-      "norris",
-      "chuck norris"
-    ]
-  }
 }

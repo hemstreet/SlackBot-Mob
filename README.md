@@ -25,5 +25,6 @@ node bot.js --name "Norris Chuck"
 ===
     * Add controller to Actions config to separate Action code form Actions.js
     * Implement dynamic bot name / pictures / emoji
+    * Multiple keywords to be satisfied before triggering callbacks
     * Multiple Aliases for bots
     * Implement Monkey Learn

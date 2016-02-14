@@ -1,0 +1,12 @@
+{
+  "name": "slack-chat-bot",
+  "version": "1.0.0",
+  "description": "Slack bot integration",
+  "main": "bot.js",
+  "author": "jon hemstreet <jon@hemstreet.io>",
+  "license": "MIT",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "underscore": "^1.8.3"
+  }
+}

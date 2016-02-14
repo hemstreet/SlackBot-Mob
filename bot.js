@@ -2,13 +2,13 @@ var config = require('./config/config'),
     actions = require('./config/actions'),
     SlackBot = require('slackbots'),
     utils = require('./lib/utilities'),
+    argv = require('yargs').argv,
     BotActions = require('./lib/Actions'),
-
     _ = require('underscore');
 
 // create a bot
 var bot = new SlackBot({
-    token: config.apiKey, // Add a bot https://my.slack.com/services/new/bot and put the token
+    token: argv.apikey || config.apiKey, // Add a bot https://my.slack.com/services/new/bot and put the token
     name: config.name || 'norrisbot'
 });
 

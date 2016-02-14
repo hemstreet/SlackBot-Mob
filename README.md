@@ -16,6 +16,11 @@ To add functionality and add more functionality update the `actions.json` file i
 as the key and give it which channels to output to, also set which keywords trigger these callbacks.
 Don't forget to change `lib/Actions.js` to reflect your newly created callbacks.
 
+You can also change the bot's name on runtime by passing it as a flag like we did above.
+```
+node bot.js --name "Norris Chuck"
+```
+
 @TODO
 ===
     * Add controller to Actions config to separate Action code form Actions.js

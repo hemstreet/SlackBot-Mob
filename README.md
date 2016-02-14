@@ -24,3 +24,6 @@ node bot.js --name "Norris Chuck"
 @TODO
 ===
     * Add controller to Actions config to separate Action code form Actions.js
+    * Implement dynamic bot name / pictures / emoji
+    * Multiple Aliases for bots
+    * Implement Monkey Learn

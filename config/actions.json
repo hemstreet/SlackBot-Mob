@@ -1,0 +1,9 @@
+{
+  "userMentionedChuck": {
+    "channels": ["general", "random"],
+    "keywords": [
+      "chuck",
+      "norris"
+    ]
+  }
+}

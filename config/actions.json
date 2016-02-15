@@ -6,13 +6,5 @@
       "norris joke",
       "chuck norris joke"
     ]
-  },
-  "userMentionedChuck": {
-    "channels": ["random"],
-    "keywords": [
-      "chuck",
-      "norris",
-      "chuck norris"
-    ]
   }
 }

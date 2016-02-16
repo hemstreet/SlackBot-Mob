@@ -25,12 +25,16 @@ bot.on('start', function () {
         var actionTaken = false;
         // Is a message and is it from someone other than the bot itself?
         if (data.type == 'message' && botId !== data.user) {
+
+            // Make sure that we only post back to the channel that was original intercepted from
+            var channel = data.channel;
             _.each(actions, function (value, key) {
                 if(!actionTaken) {
                     if (utils.messageContains(data.text, value.keywords)) {
                         actionTaken = true;
                         botActions[key]({
-                            channels: value.channels
+                            channels: value.channels,
+                            channel: channel
                         });
                     }
                 }

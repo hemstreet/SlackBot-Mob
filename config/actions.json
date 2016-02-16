@@ -1,6 +1,5 @@
 {
-  "userMentionedNorrisJokes" : {
-    "channels": ["random"],
+  "userMentionedNorrisJoke" : {
     "keywords": [
       "chuck joke",
       "norris joke",

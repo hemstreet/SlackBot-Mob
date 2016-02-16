@@ -26,8 +26,9 @@ node bot.js --name "Norris Chuck"
 
 @TODO
 ===
-    * Add controller to Actions config to separate Action code form Actions.js
-    * Implement dynamic bot name / pictures / emoji
-    * Multiple keywords to be satisfied before triggering callbacks
-    * Multiple Aliases for bots
-    * Implement Monkey Learn
+    [ ] Add controller to Actions config to separate Action code form Actions.js
+    [ ] Implement dynamic bot name / pictures / emoji
+    [ ] Multiple keywords to be satisfied before triggering callbacks
+    [ ] Multiple Aliases for bots
+    [ ] Implement Monkey Learn
+    [x] Implement responses only in channels that invoked the requests

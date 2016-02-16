@@ -11,7 +11,7 @@ var config = require('./config/config'),
 // create a bot
 var bot = new SlackBot({
     token: argv.apikey || config.apiKey, // Add a bot https://my.slack.com/services/new/bot and put the token
-    name: argv.name || config.name || 'Chuck Norris'
+    name: argv.name || config.botName || 'Chuck Norris'
 });
 
 bot.on('start', function () {

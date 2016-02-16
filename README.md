@@ -31,3 +31,4 @@ node bot.js --name "Norris Chuck"
     * Multiple keywords to be satisfied before triggering callbacks
     * Multiple Aliases for bots
     * Implement Monkey Learn
+    * Per channel response and accept commands

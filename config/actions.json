@@ -1,5 +1,14 @@
 {
+  "help" : {
+    "description" : "Help Menu",
+    "keywords": [
+      "chuck help",
+      "chuck ?",
+      "chuck -h"
+    ]
+  },
   "userMentionedNorrisJoke" : {
+    "description" : "Chuck Norris joke",
     "keywords": [
       "chuck joke",
       "norris joke",
@@ -7,11 +16,13 @@
     ]
   },
   "imageMe" : {
+    "description" : "an image",
     "keywords": [
       "chuck image me"
     ]
   },
   "pugBomb" : {
+    "description" : "lots of pugs",
     "times" : 5,
     "keywords": [
       "chuck pug bomb"

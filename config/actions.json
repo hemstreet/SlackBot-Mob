@@ -10,5 +10,11 @@
     "keywords": [
       "chuck image me"
     ]
+  },
+  "pugBomb" : {
+    "times" : 5,
+    "keywords": [
+      "chuck pug bomb"
+    ]
   }
 }

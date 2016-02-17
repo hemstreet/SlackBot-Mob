@@ -31,7 +31,8 @@ bot.on('start', function () {
                     if (utils.messageContains(data.text, value.keywords)) {
                         actionTaken = true;
                         botActions[key]({
-                            data: data
+                            data: data,
+                            config: value
                         });
                     }
                 }

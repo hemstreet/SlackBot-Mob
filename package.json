@@ -8,6 +8,7 @@
   "dependencies": {
     "g-i-s": "^1.0.1",
     "google-images": "^1.0.0",
+    "q": "^1.4.1",
     "request": "^2.69.0",
     "slackbots": "^0.5.1",
     "underscore": "^1.8.3",

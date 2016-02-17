@@ -16,7 +16,7 @@
     ]
   },
   "imageMe" : {
-    "description" : "an image",
+    "description" : "an image, make sure to add a keyword at the end for an image search",
     "keywords": [
       "chuck image me",
       "chuck find me"

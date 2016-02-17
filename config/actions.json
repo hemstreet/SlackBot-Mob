@@ -27,5 +27,11 @@
     "keywords": [
       "chuck pug bomb"
     ]
+  },
+  "planningPoker" : {
+    "description" : "Planning Poker",
+    "keywords": [
+      "chuck planning poker"
+    ]
   }
 }

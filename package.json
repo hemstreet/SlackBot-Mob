@@ -6,6 +6,7 @@
   "author": "jon hemstreet <jon@hemstreet.io>",
   "license": "MIT",
   "dependencies": {
+    "g-i-s": "^1.0.1",
     "google-images": "^1.0.0",
     "request": "^2.69.0",
     "slackbots": "^0.5.1",

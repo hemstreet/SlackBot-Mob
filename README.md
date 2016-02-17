@@ -37,5 +37,6 @@ node bot.js --name "Norris Chuck"
 Future
 ===
     [ ] Kanye bot ( http://ledhack.org/imma-let-you-finish/ )
+    [ ] Wheel of blame ( http://jsfiddle.net/AYPpF/82/embedded/result/ )
 
 

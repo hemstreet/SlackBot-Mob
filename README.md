@@ -34,4 +34,8 @@ node bot.js --name "Norris Chuck"
     [ ] Implement Monkey Learn
     [x] Implement Per channel response and accept commands
 
+Future
+===
+    [ ] Kanye bot ( http://ledhack.org/imma-let-you-finish/ )
+
 

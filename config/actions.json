@@ -5,5 +5,10 @@
       "norris joke",
       "chuck norris joke"
     ]
+  },
+  "imageMe" : {
+    "keywords": [
+      "chuck image me"
+    ]
   }
 }
